@@ -1,0 +1,101 @@
+/*debut du css top*/
+.top
+{
+ background: #013042;
+ padding: 270px;
+}
+
+#logo
+{
+    position: relative;
+    color: white;
+    margin-left: 150px;
+}
+
+h2
+{
+    text-align: center;
+    color: white;
+
+}
+
+#h20
+{
+    color: #2AB7AF;
+}
+
+#b1
+{
+    color: white;
+    background: red;
+    margin-left: 300px;
+    margin-top: 200px;
+}
+/*fin de la partie top css*/
+
+/*debut de la partie mid*/
+.mid
+{
+  background: #E0DED6;
+  min-height: 200vh;
+}
+
+#logo1
+{
+    max-width: 200px;
+    margin-left: 90px;
+}
+
+#h2black
+{
+    color: black;
+    text-align: center;
+}
+
+#imgMid
+{
+    position: absolute;
+    width: 540px;
+    margin-left: 380px;
+    margin-top: 70px;
+    
+}
+
+#h3Mid
+{
+    text-align: center;
+    color: #56BAC7;
+}
+
+#cercleMid
+{
+    position: absolute;
+    width: 550px;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+#avatar1
+{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 380px;
+}
+
+.titreMid
+{
+    color: #56BAC7;
+}
+
+.paraMid
+{
+top: 200px;
+}
+
+/*fin de la partie mid*/
+
+#logoB
+{
+    width: 200px;
+    height: 200px;
+}
